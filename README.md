@@ -1,2 +1,5 @@
 # BITP1113-Week02
 BITP 1113 Programming Technique - Week 02 Lab
+Name: AIN SYAHIRA NURALEYYA BINTI MOHD FOZI
+Matric No: B032610162
+Section: S2G2
